@@ -41,7 +41,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 *Those rides are mostly taken by male users.
 
 ## Summary
-The data shows a lot of activity from the bike sharing service in New York during the month of August 2019. Most of the rides occurred in Manhattan, and male bikers were the majority of bikers. Regardless of gender, most bikers rode their bikes during the morning and evening rush hours. This implies that Citi Bike services are used as an alternative form of transportation for commuting workers.
+Our Analysis displays a lot of activity from the bike sharing service in New York during the month of August 2019. Most of the rides occurred in Manhattan, and male bikers were the majority of bikers. Regardless of gender, most bikers rode their bikes during the morning and evening rush hours. This implies that Citi Bike services are used as an alternative form of transportation for commuting workers.
 
 Additionally it would be worthwhie to perform analysis:
 
