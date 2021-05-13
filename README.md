@@ -23,15 +23,17 @@ This project is an analysis of New York Citi Bike data, using data visualization
 *The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
 ### Checkout times for users
-![August](Images/image3.png)
+![August](Images/last-image.png)
 
 *Bikes are mostly checked out for 4 to 6 hours.
 
 ### Checkout times by gender
-![August](Images/image4.png)
+![August](Images/image3.png)
+
 *Male users take approximately 3 times more rides than the female users.
 
 ### Trips by weekday and gender
+![August](Images/image4.png)
 ![August](Images/image5.png)
 
 *Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
